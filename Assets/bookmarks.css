@@ -1,0 +1,18 @@
+    * {
+        /* outline: 1px solid red; */
+    }
+    
+    table,
+    td,
+    th {
+        border: 5px solid black;
+    }
+    
+    table {
+        border-collapse: collapse;
+        width: 30%;
+    }
+    
+    td {
+        text-align: center;
+    }
